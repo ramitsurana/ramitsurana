@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ramitsurana
 - 👀 I’m interested in Software/ML/DevOps and Product Design and Engineering.
-- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me - ramitsurana@gmail.com
 
